@@ -10,7 +10,7 @@
 
 <p align="center">
   Senior Software Engineer with 7+ years building scalable, maintainable web platforms.<br/>
-  Deep expertise in Python, Django, React, and PostgreSQL — with hands-on AWS & GCP experience.<br/>
+  Deep expertise in Node.js, Python, React, and PostgreSQL — with hands-on AWS & GCP experience.<br/>
   Passionate about AI-assisted development, LLM tooling, and delivering full-stack features from concept to production.
 </p>
 
@@ -42,7 +42,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
----
 
 </p>
