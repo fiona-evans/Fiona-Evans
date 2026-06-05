@@ -3,12 +3,6 @@
 <h3 align="center">Senior Software Engineer · 7+ Years · AI & Full-Stack</h3>
 
 <p align="center">
-  📍 Elk Grove, CA &nbsp;|&nbsp;
-  <a href="mailto:fionaevans365@gmail.com">fionaevans365@gmail.com</a> &nbsp;|&nbsp;
-  <a href="tel:6503742474">(650) 374-2474</a>
-</p>
-
-<p align="center">
   Senior Software Engineer with 7+ years building scalable, maintainable web platforms.<br/>
   Deep expertise in Node.js, Python, React, and PostgreSQL — with hands-on AWS & GCP experience.<br/>
   Passionate about AI-assisted development, LLM tooling, and delivering full-stack features from concept to production.
